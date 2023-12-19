@@ -12,6 +12,7 @@ Flipper App - Custom Calculator
 
 - Adding more functions to the Calculation
 - Learning how to modify app in Flipper
+- @Arerus44 is my Flipper device name :D
 
 ## Running
 
