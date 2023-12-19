@@ -25,5 +25,5 @@ and run: `ufbt cli` then `l`, when want to exit press: `ctrl + ]`
 
 ## Images
 
-![example_1](/img/2.png "Example 1")
-![example_2](/img/1.png "Example 2")
+![example_1](img/2.png "Example 1")
+![example_2](img/1.png "Example 2")
