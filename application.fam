@@ -10,7 +10,7 @@ App(
     fap_icon="calcIcon.png",
     fap_category="Tools",
     fap_author="@Arerus44",
-    fap_weburl="https://github.com/henry0hai/c_calculator",
+    fap_weburl="https://github.com/henry0hai/flipper-app-c_calculator",
     fap_version="1.2",
     fap_description="Custom Calculator, can perform simple expressions",
 )
